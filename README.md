@@ -1,3 +1,12 @@
+## TEST RNA
+
+
+ 
+<p align="center">
+	  <img src="https://github.com/mercyluz/rnatranscription/blob/main/testrna.png"/>
+</p>
+
+
 # RNA Transcription
 
 Welcome to RNA Transcription on Exercism's Java Track.
